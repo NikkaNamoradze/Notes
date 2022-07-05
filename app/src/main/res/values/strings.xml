@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">NoteHomework</string>
+    <string name="text">text</string>
+    <string name="nums">nums</string>
+    <string name="enter_value">Enter Value</string>
+    <string name="values_is_numeric">Values is Numeric</string>
+    <string name="add_field">Add Field</string>
+</resources>
